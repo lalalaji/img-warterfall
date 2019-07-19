@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+#container{
+    margin: 20px auto;
+    width: 90%;
+    height: 1000px;
+    border: 1px solid #000;
+    position: relative;
+}
+img{
+    transition: 1s;
+}
